@@ -67,7 +67,7 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://facebook.com/riyadahsan6
+[1]: https://x.com/_riyad_ahsan_
 [2]: https://github.com/AhsanRiyad
 [3]: https://www.linkedin.com/in/riyadahsan/
 
