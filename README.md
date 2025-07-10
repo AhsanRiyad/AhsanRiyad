@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/AhsanRiyad/AhsanRiyad/master/about_me_img.png "Header")](https://AhsanRiyad.dev/)
+[![Header](https://raw.githubusercontent.com/AhsanRiyad/AhsanRiyad/master/about_me_img.png "Header")](https://riyadahsan.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/AhsanRiyad/AhsanRiyad/master/wave.gif" width="30px" height="30px" />
 
@@ -23,7 +23,7 @@ My name is Riyad Ahsan and I'm a software developer/DevOps engineer. I'm from Ba
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [riyadahsan.com](https://blog.riyadahsan.com/) as well as on [Medium](https://medium.com/@af.riyad) and [DEV.to](https://dev.to/AhsanRiyad).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [riyadahsan.com](https://blog.riyadahsan.com/) as well as on [Medium](https://medium.com/@af.riyad) and [DEV.to](https://dev.to/riyadahsan).
 
 A sample of my recent articles:
 
